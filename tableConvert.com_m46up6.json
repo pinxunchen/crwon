@@ -1,4 +1,8 @@
-﻿[
+﻿{
+    "type": "FeatureCollection",
+    "features": 
+
+[
     {
         "name": "宋連瑛",
         "user_id": "A210008771",
@@ -56496,4 +56500,4 @@
         "address": "新北市新店區吉祥街9巷19號",
         "phone": ""
     }
-]
+]}
