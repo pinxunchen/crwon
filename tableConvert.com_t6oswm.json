@@ -1,9 +1,9 @@
 ﻿{
     "type": "FeatureCollection",
-    "features":
-
-[
-    {
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
         "name": "宋連瑛",
         "user_id": "A210008771",
         "identity": "一般",
