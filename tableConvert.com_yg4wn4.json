@@ -1,7 +1,7 @@
 ﻿{
-
-"features": 
-[
+    "type": "FeatureCollection",
+    "features": [
+     
     {
         "name": "宋連瑛",
         "user_id": "A210008771",
@@ -64570,4 +64570,5 @@
         "phone": "",
         "amount": "100"
     }
-] }
+] 
+}
