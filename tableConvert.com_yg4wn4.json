@@ -1,0 +1,24 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "name": "宋連瑛",
+        "user_id": "A210008771",
+        "identity": "一般",
+        "address": "新北市中和區莊敬路４９巷２９弄９號三樓",
+        "phone": "0922569213",
+        "amount": "100"
+      }
+    },
+    {
+      "properties": {
+        "name": "吳阿池",
+        "user_id": "F200068117",
+        "identity": "一般",
+        "address": "新北市泰山區明志路2段32巷1號3樓之1",
+        "phone": "82927683",
+        "amount": "100"
+      }
+    }]
+}
